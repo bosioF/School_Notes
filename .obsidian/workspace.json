@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPSIT_190925.md",
+                "file": "TPSIT/TPSIT_190925.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,10 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c41afc3d1d561a04",
+  "active": "056325c4537dc474",
   "lastOpenFiles": [
-    "SIST_190925.md",
-    "TPSIT_190925.md",
+    "TPSIT",
+    "Sistemi_e_reti",
+    "Sistemi_e_reti/SIST_190925.md",
+    "TPSIT/TPSIT_190925.md",
     "Welcome.md"
   ]
 }
