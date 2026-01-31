@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d8241dfd813f5d5b",
+        "id": "02b356f810f26291",
         "type": "tabs",
         "children": [
           {
-            "id": "c41afc3d1d561a04",
+            "id": "919862ede104086e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPSIT/TPSIT_031025.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPSIT_031025"
+              "title": "README"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,19 +169,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "c41afc3d1d561a04",
+  "active": "919862ede104086e",
   "lastOpenFiles": [
-    "TPSIT/TPSIT_260925.md",
+    "Index.md",
+    "Sistemi_e_reti/SIST_300126.md",
+    "Sistemi_e_reti/SIST_160126.md",
+    "Sistemi_e_reti/SIST_061125.md",
+    "Sistemi_e_reti/SIST_171025.md",
+    "Sistemi_e_reti/SIST_260925.md",
+    "Sistemi_e_reti/SIST_190925.md",
+    "TPSIT/TPSIT_120126.md",
+    "Info/INFO_130126.md",
+    "TPSIT/TPSIT_090126.md",
     "TPSIT/TPSIT_220925.md",
     "TPSIT/TPSIT_190925.md",
+    "TPSIT/TPSIT_260925.md",
     "TPSIT/TPSIT_031025.md",
-    "Untitled.md",
-    "Index.md",
+    "TPSIT/TPSIT_101025.md",
+    "TPSIT/TPSIT_241125.md",
     "README.md",
-    "Sistemi_e_reti/SIST_260925.md",
+    "Info",
+    "Untitled.md",
     "SIST_260925.md",
     "TPSIT",
-    "Sistemi_e_reti/SIST_190925.md",
     "Sistemi_e_reti",
     "TPSIT_190925.md",
     "SIST_190925.md",

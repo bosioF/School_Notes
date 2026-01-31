@@ -1,13 +1,25 @@
 # Indice di navigazione degli appunti
 
-## Operating systems
+## OS
 
 ```query
 tag:#OS/linux
 ```
 
-## Languages
+## Linguaggi
 
 ```query
 tag:#html
+```
+
+```query
+tag:#js
+```
+
+```query
+tag:#C
+```
+
+```query
+tag:#sh
 ```
